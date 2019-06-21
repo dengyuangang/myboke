@@ -7,14 +7,14 @@ title: 邓元刚的博客
 subtitle: 正经敲代码的程序猿
 description: web前端个人技术分享
 keywords:
-author: John Doe
+author: deng 
 language: zh-Hans
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://dengyuangang.github.io/blog
-root: /
+root: /blog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -74,6 +74,9 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: yilan
+
+#你的头像url
+avatar: "http://img2.imgtn.bdimg.com/it/u=2705304326,1100186784&fm=26&gp=0.jpg"
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
