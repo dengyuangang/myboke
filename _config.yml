@@ -102,7 +102,7 @@ pagination_dir: page
 theme: yilan
 
 #你的头像url
-avatar: "img/tuoxiang.jpg"
+avatar: /img/tuoxiang.jpg
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
