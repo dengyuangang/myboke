@@ -2,7 +2,7 @@
 
 menu:
   主页: /
-  随笔: /tags/随笔/
+  相册: /tags/随笔/
 
 # SubNav
 subnav:
@@ -29,7 +29,6 @@ rss: /atom.xml
 # 如果您的网站存放在子目录中，例如 http://yoursite.com/blog，
 # 请将您的 url 设为 http://yoursite.com/blog 并把 root 设为 /blog/。
 root: /
-
 # Content
 
 # 文章太长，截断按钮文字
@@ -68,7 +67,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar:
+avatar: img/tuoxiang.jpg
 
 #是否开启分享
 share_jia: true

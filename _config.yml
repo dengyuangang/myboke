@@ -17,7 +17,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://dengyuangang.github.io/blog/
+url: https://dengyuangang.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -69,6 +69,8 @@ toc_empty_wording: '目录，不存在的…'
 
 # 是否有快速回到顶部的按钮
 top: true
+#你的头像url
+avatar: blog/themes/source/img/touxiang.jpg
   
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
@@ -100,9 +102,6 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: yilan
-
-#你的头像url
-avatar: /img/tuoxiang.jpg
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
